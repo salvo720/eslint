@@ -1,0 +1,8 @@
+per inizializzare es-lint dalla cartella usiamo i seguenti comandi : 
+1) npm init -y 
+2) npm init @eslint/config 
+
+
+
+per installare le regole di google usa il comando  : 
+1) npm i --save-dev eslint eslint-config-google
